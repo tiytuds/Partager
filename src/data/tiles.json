@@ -1,0 +1,243 @@
+[
+  {
+    "id": "tile-1",
+    "title": "Active Recall",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "medium",
+  "content": "Active recall is a study technique that involves directly utilizing memory retrieval to enhance learning and retention. To implement active recall, learners take a topic they wish to learn and creating questions or prompts based on that topic, then subsequently testing themselves without referring to their notes or textbooks.",
+  "content2": "Active recall isn't a strategy I normally employ — but sometimes it finds its way subconsciously into my studying. Inquiry-based learning involves asking a lot of questions and seeking answers on your own. I find that I like inquiry-based learning more than didactic lecturing because it prioritizes my engagement with the material other than the sole pursuit of a grade.",
+    "links": ["tile-2"]
+    ,"ref": [
+      {
+        "title": "Active Recall: The Most Effective High-Yield Learning Technique (Osmosis)",
+        "url": "https://www.osmosis.org/blog/active-recall-the-most-effective-high-yield-learning-technique"
+      }
+    ]
+  },
+  {
+    "id": "tile-2",
+    "title": "Spaced Repetition",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "small",
+  "content": "Spaced repetition is a learning technique where information is reviewed at increasing intervals to enchance long-term retention of information. Spaced practice enhances memory, problem solving, and transfer of learning to new contexts.",
+  "content2": "Spaced repetition finds its way into my exploration of language, especially when learning new vocabularies. Apps like Anki and Duolingo utilize spaced repetition algorithms to optimize review, allowing me to learn more efficiently and strategically.",
+    "links": ["tile-1"]
+    ,"ref": [
+      {
+        "title": "Spaced Repetition Promotes Efficient and Effective Learning: Policy Implications for Instruction (SAGE Journals)",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/2372732215624708?casa_token=NbjdopTIbysAAAAA:JWeggImd0nfnPUFvocpS55SfO1HhtBjHRcsjZ-nl10k1Hvn_y6xOsTAZ-NB5iMlyc2fL6pU-Ny-N"
+      }
+    ]
+  },
+  {
+    "id": "tile-3",
+    "title": "Socratic Method",
+    "domain": "Teaching",
+    "type": "teaching",
+    "size": "small",
+  "content": "The Socratic method is a form of cooperative argumentative dialogue that stimulates critical thinking and reveals underlying assumptions and biases. It relies on the instructor leading students with open-ended questions ",
+  "content2": "This is weirdly reminiscent of first-year inquiry. The open-endedness of the questions as well as the confrontational nature they took, at least in the initial sessions, made it clear we weren't just being asked questions to learn facts — we were also supposed to dissect our own beliefs and self-perceptions.",
+  "links": ["tile-16", "tile-13", "tile-9"]
+    ,"ref": [
+      {
+        "title": "Socratic Method (University of Oklahoma)",
+        "url": "https://www.ou.edu/content/dam/cas/philosophy/docs/faculty-staff/benson/socratic_method.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tile-4",
+    "title": "Metacognition",
+    "domain": "Learning",
+    "type": "hybrid",
+    "size": "medium",
+  "content": "Metacognition is the conscious awareness and understanding of one's own thought patterns and processes.",
+  "content2": "I think about my thinking a lot, funny enough. Reflections across the mandatory health science courses in HHSP are a really good, covert example of metacognition in πράξη (praxis — hah!). Being able to break apart my own thinking and see the individual rooms as opposed to the full house has helped me optimize... everything. Metacognition is the reason why I'm even in CHS to begin with.",
+    "links": ["tile-1", "tile-3"]
+    ,"ref": [
+      {
+        "title": "Metacognition: A Literature Review (Pearson)",
+        "url": "https://d1wqtxts1xzle7.cloudfront.net/76688967/Metacognition_Literature_Review_Final-libre.pdf?1639757731=&response-content-disposition=inline%3B+filename%3DMetacognition_A_Literature_Review_Resear.pdf&Expires=1762741098&Signature=XmhcMZ98wCn6ahO4KvgLzWFCre2sR6IV~YkMAXbqvy-ynDtuPaYMweJIEHlru8UAM5NYOu1fXLv1~gKWys29ETqJ5YO3-VyZeWhS0bMa~TA8fj65aq1ImCyLRDz273ub4J8n8tW5aTF4UWkT4lrDktmL0aKX810a202C-qH7pmFBy7u0PSBMh1c-0EBnHjYM1l4oFCwRxagyApeULKFGf~vWFypiAlVIekfifpZStAEEMtH6kZ7cY6v60RgJt~T-a6t3vf2NRJaNrGeC5brCOA6Fn8i6fj5PezCKwVEJr-iuU-jmEe5LG71HHNLSl2~LYGgjYPD3Zn2mE~qMCmcC-w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+      }
+    ]
+  },
+  {
+    "id": "tile-5",
+    "title": "Sharing",
+    "domain": "Teaching",
+    "type": "hybrid",
+    "size": "large",
+  "content": "A word used to avoid using the stigmatized taboo term 'presentation' in CHS. However, not universally adopted by health science students, in part due to the deep-seated academic culture with information sharing, where passing on the information efficiently to as many people as possible is prioritized over engagement and interaction.",
+  "content2": "",
+  "links": ["tile-16", "tile-13"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-6",
+    "title": "Slideshows",
+    "domain": "Teaching",
+    "type": "teaching",
+    "size": "small",
+  "content": "Slideshows are visual presentations that allow the minimum amount of interaction with the content. Most forms of interaction with slideshows will involve the learner passively receiving information, and transferrring that information to a medium of their choice (notes, mind maps, etc.).",
+  "content2": "I have a love-hate relationship with slideshows. On one hand, they provide structure to information transfer, allowing both the learner and the presenter to stay on track. On the other hand, they can be limiting and demand more innate concentration from the learner to stay engaged with the material, as opposed to more interactive methods used in teaching.",
+    "links": ["tile-7"]
+    ,"ref": [
+      {
+        "title": "Slideshows as a Tool for Learning and Assessment: Pros and Cons as Perceived by Students (Electronic Journal of e-Learning)",
+        "url": "https://academic-publishing.org/index.php/ejel/article/view/3647"
+      }
+    ]
+  },
+  {
+    "id": "tile-7",
+    "title": "Presentations",
+    "domain": "Teaching",
+    "type": "teaching",
+    "size": "medium",
+  "content": "The act of presenting information to an audience, to pass on that information effectively. Presentations are typically done in a formal setting, avoiding direct interaction and engagement with the audience.",
+  "content2": "I've been told I present well. I don't know if I agree...",
+    "links": ["tile-5"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-8",
+    "title": "Mind Mapping",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "small",
+  "content": "A visual way to organize information, often used to brainstorm ideas and/or connect related concepts.",
+  "content2": "Never 'mind-mapped' before academically, but I can see the benefits of visually organizing information, especially in subjects where concepts connect to each other frequently, like in anatomy or biology.",
+  "links": ["tile-18", "tile-14"]
+    ,"ref": [
+      {
+        "title": "Mind mapping research methods (Quality and Quantity, 2012)",
+        "url": "https://www.researchgate.net/profile/Michael-Crowe-4/publication/231582064_Mind_mapping_research_methods/links/570d85ed08ae3199889bc200/Mind-mapping-research-methods.pdf"
+      },
+      {
+        "title": "Mind mapping as a teaching resource (The Clinical Teacher, 2010)",
+        "url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1743-498X.2010.00395.x?casa_token=rlKQcY8fSCcAAAAA%3ABXV8KRqp3qCksjjzwW2kvRn14xR9Gyz-06L9RvCbpaotLICTnW1m0PfROt37Ay4ftfAFNpyA07ECOOsq"
+      }
+    ]
+  },
+  {
+    "id": "tile-9",
+    "title": "Peer Teaching",
+    "domain": "Teaching",
+    "type": "teaching",
+    "size": "large",
+  "content": "Students teaching other students. This strategy incorporates the social aspect of learning, allowing students to learn from each other as opposed to solely from an instructor.",
+  "content2": "In a way, peer teaching, I think, is the purest form of learning. Before writing systems were developed, passing on information was largely a social activity, as a result of oral traditions. I think peer teaching brings back that element of socialization which has been lost as a result of institutionalized education and heightened literacy.",
+  "links": ["tile-16", "tile-13", "tile-3"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-10",
+    "title": "Gamification",
+    "domain": "Learning",
+    "type": "hybrid",
+    "size": "small",
+  "content": "Incorporating game elements into learning...",
+  "content2": "",
+    "links": []
+    ,"ref": []
+  },
+  {
+    "id": "tile-11",
+    "title": "Flipped Classroom",
+    "domain": "Teaching",
+    "type": "hybrid",
+    "size": "small",
+  "content": "Students learn new content at home...",
+  "content2": "",
+    "links": []
+    ,"ref": []
+  },
+  {
+    "id": "tile-12",
+    "title": "Note-taking",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "small",
+  "content": "The practice of recording information...",
+  "content2": "",
+    "links": []
+    ,"ref": []
+  },
+  {
+    "id": "tile-13",
+    "title": "Discussion Groups",
+    "domain": "Teaching",
+    "type": "teaching",
+    "size": "medium",
+  "content": "Facilitating group discussions for deeper understanding...",
+  "content2": "",
+  "links": ["tile-16", "tile-9", "tile-5", "tile-3"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-14",
+    "title": "Visualization",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "medium",
+  "content": "Using visual aids to enhance learning...",
+  "content2": "",
+  "links": ["tile-18", "tile-8"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-15",
+    "title": "Feedback",
+    "domain": "Teaching",
+    "type": "teaching",
+    "size": "medium",
+  "content": "Providing constructive feedback to learners...",
+  "content2": "",
+    "links": ["tile-4"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-16",
+    "title": "Collaborative Learning",
+    "domain": "Teaching",
+    "type": "hybrid",
+    "size": "large",
+  "content": "Collaborative learning is an educational strategy where students work together to achieve common learning goals. These goals can manifest as projects, tasks, or creation of products. While its definition varies by application, collaborative learning typically involves joint intellectual effort by members of a group. It has gained popularity in recent years for its efficacy in delivering understanding and retention of material.",
+  "content2": "",
+  "links": ["tile-13", "tile-9", "tile-5", "tile-3"]
+    ,"ref": [
+        {
+          "title": "Collaborative projects in education (ScienceDirect)",
+          "url": "https://pdf.sciencedirectassets.com/277811/1-s2.0-S1877042811X00241/1-s2.0-S1877042811030205/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC4aCXVzLWVhc3QtMSJGMEQCIF%2B5sLHnSJXVZkRwYAupOdZkcBfzloM80NRVjAaS1psGAiASTIECwntDKZ8gDoARkh1vzVT5Hj%2FRGfQhhyr7CadBKCq8BQj3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMVciq2F%2Bkfds3tzcoKpAFHf9ywiloCAyz%2FFtsgpTbdGZA5ygxkAGqNAs%2BEJmFEVTEy0Bd0pp10LOOUE5Kr3NdbDRef6mzRImPtKXZW3IuNGrghgBe56Q58j2lxOKQzOv45hmEae%2FA8gCZ88jtJ9YxTQULmwJ%2F%2F5Tt3dJovrGf8AI8PaWA5A61iViS3VJO6h76YrzU9Fv0JuPlGh89M94xtUUmnu0IxPByhE49%2FO99Q72lOO1ZsdKlmWpGu0ZCdk1UcHt2J0WK81VrBPprwbBeNudJx079tLB1w1zeFjILKx%2FKykxBozlilx6u6Q%2FwA5n0e1ZM2xqEiwyiOyD1964fFrZk%2FStLhgXjzMElw65B%2Bja1ZRhQrE6V4qFiZ9lTOoudKtWCwgGaAe27AqRO%2FvMSa4YqmwWJmIOtV25zSTRMzi5BfiGp2qQ8gYSXy3PTsY7QXkjWj0N3O90j8k14%2Fmlbb4JWlFB%2But9LHXXt3cS4Od%2FrlkEw0DF3YZjksI%2B9FY2mKrPQ6mJwI9PF%2FlrYDHiWZskQ%2FwrCavIKfWLc%2BGUPkf77xhNeiHX5jLMy8lo2Qflr6lvUbsDOSV0Vp6zsbWlGqwshNScCyUkTVveKum20G7BRxn70xra8Edw5yeECBP%2Fb7c91eFKp1JZ0NeP2%2BaGLhSrZ8df3T%2FvJtPwrWC1OaKvZxnJEjyyQrObUbq9K4zQGyDO9Ami4n20JMMQ%2Bc032f59jzj1jYY7RkFRbRpF9WteJxHK%2FJvHXsF3VlS6F1oehLCp4Yya8Oil1ZlhaTsIW86crC5%2FirTdj9Rk6ebssPQshIq1wi%2FvzfhX4zJ%2FD6Jw%2FfzSVrGXyN3O7u4Gkug0%2FFBc9Nctt6vGeoh9g%2BEmfrHNfH2h2Honhc3P3FP2M2nYwyJnEyAY6sgH7VIwPKXrVnMYe4srTkTbCvJMs%2Bn7cQA%2F6fUDk9viGKyBxtjkz2rNNa%2FL%2FdxkQOQPuEgszjy13EwmqdXrI57cg8tJZKZEhfJl3xEHH04FYVNvpFqWAy28uqFUN94lA7nh%2F2UJZMmo%2FJApq06scQi59BtOImZcgQ614acptdijtFKoEheI0o4RJGze5Wx4hejOsMiDO6e4zUhjGlkwdW6QNVZ0Gy96l9C2B6ukCgMOWa8m%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251109T225341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXMKJYEKY%2F20251109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=786efaddf6c719911c6da7776a86550ea11b9323d610e36822c401acc2d1b414&hash=8f12b227e8d49651cbe40d158fc454f7576b9171d5b14da4afed3c2427902588&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877042811030205&tid=spdf-fc405e7e-62fb-4b16-9349-b0f3e9eb2886&sid=d8b051fa4a13d04e6d38b0a42de60d07b03egxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1900595c045505525604&rr=99c0e33de90ea21d&cc=ca"
+        },
+        {
+          "title": "Collaborative learning: what is it? (ScienceDirect)",
+          "url": "https://pdf.sciencedirectassets.com/277811/1-s2.0-S1877042811X00241/1-s2.0-S1877042811030217/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC4aCXVzLWVhc3QtMSJGMEQCIF%2B5sLHnSJXVZkRwYAupOdZkcBfzloM80NRVjAaS1psGAiASTIECwntDKZ8gDoARkh1vzVT5Hj%2FRGfQhhyr7CadBKCq8BQj3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMVciq2F%2Bkfds3tzcoKpAFHf9ywiloCAyz%2FFtsgpTbdGZA5ygxkAGqNAs%2BEJmFEVTEy0Bd0pp10LOOUE5Kr3NdbDRef6mzRImPtKXZW3IuNGrghgBe56Q58j2lxOKQzOv45hmEae%2FA8gCZ88jtJ9YxTQULmwJ%2F%2F5Tt3dJovrGf8AI8PaWA5A61iViS3VJO6h76YrzU9Fv0JuPlGh89M94xtUUmnu0IxPByhE49%2FO99Q72lOO1ZsdKlmWpGu0ZCdk1UcHt2J0WK81VrBPprwbBeNudJx079tLB1w1zeFjILKx%2FKykxBozlilx6u6Q%2FwA5n0e1ZM2xqEiwyiOyD1964fFrZk%2FStLhgXjzMElw65B%2Bja1ZRhQrE6V4qFiZ9lTOoudKtWCwgGaAe27AqRO%2FvMSa4YqmwWJmIOtV25zSTRMzi5BfiGp2qQ8gYSXy3PTsY7QXkjWj0N3O90j8k14%2Fmlbb4JWlFB%2But9LHXXt3cS4Od%2FrlkEw0DF3YZjksI%2B9FY2mKrPQ6mJwI9PF%2FlrYDHiWZskQ%2FwrCavIKfWLc%2BGUPkf77xhNeiHX5jLMy8lo2Qflr6lvUbsDOSV0Vp6zsbWlGqwshNScCyUkTVveKum20G7BRxn70xra8Edw5yeECBP%2Fb7c91eFKp1JZ0NeP2%2BaGLhSrZ8df3T%2FvJtPwrWC1OaKvZxnJEjyyQrObUbq9K4zQGyDO9Ami4n20JMMQ%2Bc032f59jzj1jYY7RkFRbRpF9WteJxHK%2FJvHXsF3VlS6F1oehLCp4Yya8Oil1ZlhaTsIW86crC5%2FirTdj9Rk6ebssPQshIq1wi%2FvzfhX4zJ%2FD6Jw%2FfzSVrGXyN3O7u4Gkug0%2FFBc9Nctt6vGeoh9g%2BEmfrHNfH2h2Honhc3P3FP2M2nYwyJnEyAY6sgH7VIwPKXrVnMYe4srTkTbCvJMs%2Bn7cQA%2F6fUDk9viGKyBxtjkz2rNNa%2FL%2FdxkQOQPuEgszjy13EwmqdXrI57cg8tJZKZEhfJl3xEHH04FYVNvpFqWAy28uqFUN94lA7nh%2F2UJZMmo%2FJApq06scQi59BtOImZcgQ614acptdijtFKoEheI0o4RJGze5Wx4hejOsMiDO6e4zUhjGlkwdW6QNVZ0Gy96l9C2B6ukCgMOWa8m%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251109T225929Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXMKJYEKY%2F20251109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2d1b380aa110013dbcd9295ff86b67a56dc5876461ca09dbb58b6bcf5e3bd440&hash=f3c1fe6d1321b0b3508da4f9349759526fe7ef75791ebec75163a58343b4f78f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877042811030217&tid=spdf-350bbba4-c3ff-45ee-a960-7c5d6cd31730&sid=d8b051fa4a13d04e6d38b0a42de60d07b03egxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1900595c045505030703&rr=99c0ebbc5b7aac12&cc=ca"
+        }
+      ]
+  },
+  {
+    "id": "tile-17",
+    "title": "Self-assessment",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "medium",
+  "content": "Learners evaluating their own progress...",
+  "content2": "",
+    "links": ["tile-4", "tile-3"]
+    ,"ref": []
+  },
+  {
+    "id": "tile-18",
+    "title": "Concept Mapping",
+    "domain": "Learning",
+    "type": "learning",
+    "size": "small",
+  "content": "Creating diagrams to represent relationships between concepts...",
+  "content2": "",
+    "links": ["tile-8"]
+    ,"ref": []
+  }
+]

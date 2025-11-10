@@ -1,0 +1,82 @@
+.tile:hover {
+  opacity: 1;
+  filter: none;
+}
+
+/* Only dim other tiles when one is hovered */
+.mosaic-grid:hover .tile:not(:hover) {
+  opacity: 1;
+  filter: brightness(-1);
+}
+
+.tile {
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease, filter 0.2s ease;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Color coding */
+.tile.learning {
+  background-color: #3498db; /* blue */
+}
+
+.tile.teaching {
+  background-color: #e74c3c; /* red */
+}
+
+.tile-title {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 600; /* semi-bold */
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.tile-content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; /* regular */
+}
+
+.tile.dimmed {
+  opacity: 0.3;
+  filter: brightness(0.5);
+}
+
+.tile.hybrid {
+  background-color: #9b59b6; /* purple */
+}
+
+/* When a tile is hovered, scale it up */
+.tile:hover {
+  transform: scale(1.05);
+  z-index: 10;
+}
+
+.tile:active {
+  transform: scale(0.95);
+}
+
+.tile.small .tile-title {
+  font-size: 0.8rem;
+}
+
+.tile.medium .tile-title {
+  font-size: 1.2rem;
+}
+
+.tile.large .tile-title {
+  font-size: 1.6rem;
+}

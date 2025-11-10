@@ -1,0 +1,27 @@
+.mosaic {
+  padding: 20px;
+}
+
+.mosaic-wrapper {
+  position: relative;
+}
+
+.mosaic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-auto-rows: 100px; /* Base row height */
+  gap: 20px;
+  padding: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.domain-section {
+  margin-bottom: 40px;
+}
+
+.tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+}
