@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tiytuds/Partager/static/css/main.43799b6b.css",
-    "main.js": "/tiytuds/Partager/static/js/main.5506e64c.js",
-    "index.html": "/tiytuds/Partager/index.html",
-    "main.43799b6b.css.map": "/tiytuds/Partager/static/css/main.43799b6b.css.map",
-    "main.5506e64c.js.map": "/tiytuds/Partager/static/js/main.5506e64c.js.map"
+    "main.css": "/Partager/static/css/main.43799b6b.css",
+    "main.js": "/Partager/static/js/main.5506e64c.js",
+    "index.html": "/Partager/index.html",
+    "main.43799b6b.css.map": "/Partager/static/css/main.43799b6b.css.map",
+    "main.5506e64c.js.map": "/Partager/static/js/main.5506e64c.js.map"
   },
   "entrypoints": [
     "static/css/main.43799b6b.css",
