@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Partager/static/css/main.43799b6b.css",
-    "main.js": "/Partager/static/js/main.5506e64c.js",
+    "main.js": "/Partager/static/js/main.4f49e6c4.js",
     "index.html": "/Partager/index.html",
     "main.43799b6b.css.map": "/Partager/static/css/main.43799b6b.css.map",
-    "main.5506e64c.js.map": "/Partager/static/js/main.5506e64c.js.map"
+    "main.4f49e6c4.js.map": "/Partager/static/js/main.4f49e6c4.js.map"
   },
   "entrypoints": [
     "static/css/main.43799b6b.css",
-    "static/js/main.5506e64c.js"
+    "static/js/main.4f49e6c4.js"
   ]
 }
