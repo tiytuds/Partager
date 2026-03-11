@@ -1,22 +1,25 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './TileModal.css';
 import tilesData from '../../data/tiles.json';
 
 const TileModal = ({ tile, onClose, onTileClick }) => {
+  const [feedback, setFeedback] = useState('');
+  const [submitted, setSubmitted] = useState(false);
+
+  useEffect(() => {
+    setFeedback('');
+    setSubmitted(false);
+  }, [tile]);
+
   if (!tile) return null;
 
-  // Get related tile objects (links refer to other tiles by id)
   const relatedTiles = (tile.links || [])
     .map(linkId => tilesData.find(t => t.id === linkId))
-    .filter(Boolean) // remove any undefined
+    .filter(Boolean)
     .sort((a, b) => a.title.localeCompare(b.title));
 
-  // Build references list. Support two kinds of refs:
-  // - external URLs (strings starting with http/https)
-  // - internal tile references (ids that match other tiles)
   const tileRefs = (tile.ref || [])
     .map(r => {
-      // support object refs: { title?, url?, id? }
       if (r && typeof r === 'object') {
         if (r.url && typeof r.url === 'string') {
           return { type: 'url', url: r.url, title: r.title };
@@ -27,17 +30,27 @@ const TileModal = ({ tile, onClose, onTileClick }) => {
         }
         return null;
       }
-
       if (typeof r === 'string' && /^https?:\/\//i.test(r)) {
         return { type: 'url', url: r };
       }
-
-      // try to find a tile with this id
       const found = tilesData.find(t => t.id === r);
       if (found) return { type: 'tile', tile: found };
       return null;
     })
     .filter(Boolean);
+
+  const handleFeedbackSubmit = () => {
+    if (!feedback.trim()) return;
+    const existing = JSON.parse(localStorage.getItem('tileFeedback') || '{}');
+    existing[tile.id] = [...(existing[tile.id] || []), {
+      text: feedback,
+      timestamp: new Date().toISOString()
+    }];
+    localStorage.setItem('tileFeedback', JSON.stringify(existing));
+    setSubmitted(true);
+    setFeedback('');
+    setTimeout(() => setSubmitted(false), 3000);
+  };
 
   return (
     <div className="modal-overlay" onClick={onClose}>
@@ -45,7 +58,7 @@ const TileModal = ({ tile, onClose, onTileClick }) => {
         <button className="close-btn" onClick={onClose}>×</button>
         <h2>{tile.title}</h2>
         <p>{tile.content}</p>
-        <br></br>
+        <br />
         <p>{tile.content2}</p>
 
         {relatedTiles.length > 0 && (
@@ -82,8 +95,6 @@ const TileModal = ({ tile, onClose, onTileClick }) => {
                     </button>
                   );
                 }
-
-                // tile reference
                 return (
                   <button
                     key={r.tile.id}
@@ -97,6 +108,26 @@ const TileModal = ({ tile, onClose, onTileClick }) => {
             </div>
           </div>
         )}
+
+        <div className="tile-feedback">
+          <h4>Suggest an improvement!</h4>
+          {submitted ? (
+            <p className="feedback-success">Thanks for your feedback!</p>
+          ) : (
+            <>
+              <textarea
+                value={feedback}
+                onChange={(e) => setFeedback(e.target.value)}
+                placeholder={`Suggestions for "${tile.title}"...`}
+                rows={3}
+              />
+              <button className="feedback-submit-btn" onClick={handleFeedbackSubmit}>
+                Submit
+              </button>
+            </>
+          )}
+        </div>
+
       </div>
     </div>
   );
