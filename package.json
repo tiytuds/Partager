@@ -1,7 +1,6 @@
 {
   "name": "mosaic-app",
-  "version": "0.0.3"
-  ",
+  "version": "0.0.3",
   "private": true,
   "homepage": "https://tiytuds.github.io/Partager",
   "dependencies": {
