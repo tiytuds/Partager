@@ -6,16 +6,22 @@
 .App h1 {
   font-size: clamp(1em, 4vw, 3em);
   margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .App p {
   font-size: clamp(0.5em, 2vw, 1.5em);
   margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .App strong {
   font-size: clamp(0.75em, 2vw, 1.5em);
   margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .App-logo {

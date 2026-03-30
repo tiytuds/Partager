@@ -6,7 +6,7 @@
     "size": "medium",
   "content": "Active recall is a study technique that involves directly utilizing memory retrieval to enhance learning and retention. To implement active recall, learners take a topic they wish to learn and creating questions or prompts based on that topic, then subsequently testing themselves without referring to their notes or textbooks.",
   "content2": "Active recall isn't a strategy I normally employ — but sometimes it finds its way subconsciously into my studying. Inquiry-based learning involves asking a lot of questions and seeking answers on your own. I find that I like inquiry-based learning more than didactic lecturing because it prioritizes my engagement with the material other than the sole pursuit of a grade.",
-    "links": ["tile-2", "tile-4", "tile-10", "tile-12"],
+    "links": ["tile-2", "tile-4", "tile-8", "tile-10", "tile-12", "tile-15", "tile-22", "tile-23", "tile-27", "tile-30", "tile-32", "tile-35"],
     "ref": [
       {
         "title": "Active Recall: The Most Effective High-Yield Learning Technique (Osmosis)",
@@ -21,7 +21,7 @@
     "size": "small",
   "content": "Spaced repetition is a learning technique where information is reviewed at increasing intervals to enchance long-term retention of information. Spaced practice enhances memory, problem solving, and transfer of learning to new contexts.",
   "content2": "Spaced repetition finds its way into my exploration of language, especially when learning new vocabularies. Apps like Anki and Duolingo utilize spaced repetition algorithms to optimize review, allowing me to learn more efficiently and strategically.",
-    "links": ["tile-1", "tile-10"],
+    "links": ["tile-1", "tile-8", "tile-10", "tile-22", "tile-25", "tile-28", "tile-32"],
     "ref": [
       {
         "title": "Spaced Repetition Promotes Efficient and Effective Learning: Policy Implications for Instruction (SAGE Journals)",
@@ -51,7 +51,7 @@
     "size": "medium",
   "content": "Metacognition is the conscious awareness and understanding of one's own thought patterns and processes.",
   "content2": "I think about my thinking a lot, funny enough. Reflections across the mandatory health science courses in HHSP are a really good, covert example of metacognition in πράξη (praxis — hah!). Being able to break apart my own thinking and see the individual rooms as opposed to the full house has helped me optimize... everything. Metacognition is the reason why I'm even in CHS to begin with.",
-    "links": ["tile-1", "tile-3", "tile-15", "tile-17"],
+    "links": ["tile-1", "tile-3", "tile-15", "tile-17", "tile-23", "tile-24"],
     "ref": [
       {
         "title": "Metacognition: A Literature Review (Pearson)",
@@ -66,7 +66,7 @@
     "size": "large",
   "content": "A word used to avoid using the stigmatized taboo term 'presentation' in CHS. However, not universally adopted by health science students, in part due to the deep-seated academic culture with information sharing, where passing on the information efficiently to as many people as possible is prioritized over engagement and interaction.",
   "content2": "",
-  "links": ["tile-16", "tile-13", "tile-7"],
+  "links": ["tile-7", "tile-9", "tile-13", "tile-16"],
     "ref": []
   },
   {
@@ -76,7 +76,7 @@
     "size": "small",
   "content": "Slideshows are visual presentations that allow the minimum amount of interaction with the content. Most forms of interaction with slideshows will involve the learner passively receiving information, and transferrring that information to a medium of their choice (notes, mind maps, etc.).",
   "content2": "I have a love-hate relationship with slideshows. On one hand, they provide structure to information transfer, allowing both the learner and the presenter to stay on track. On the other hand, they can be limiting and demand more innate concentration from the learner to stay engaged with the material, as opposed to more interactive methods used in teaching.",
-    "links": ["tile-7"],
+    "links": ["tile-7", "tile-14"],
     "ref": [
       {
         "title": "Slideshows as a Tool for Learning and Assessment: Pros and Cons as Perceived by Students (Electronic Journal of e-Learning)",
@@ -91,7 +91,7 @@
     "size": "medium",
   "content": "The act of presenting information to an audience, to pass on that information effectively. Presentations are typically done in a formal setting, avoiding direct interaction and engagement with the audience.",
   "content2": "I've been told I present well. I don't know if I agree...",
-    "links": ["tile-5","tile-6"],
+    "links": ["tile-5", "tile-6", "tile-13", "tile-16"],
     "ref": []
   },
   {
@@ -101,7 +101,7 @@
     "size": "small",
   "content": "A visual way to organize information, often used to brainstorm ideas and/or connect related concepts.",
   "content2": "Never 'mind-mapped' before academically, but I can see the benefits of visually organizing information, especially in subjects where concepts connect to each other frequently, like in anatomy or biology.",
-  "links": ["tile-18", "tile-14"],
+    "links": ["tile-1", "tile-2", "tile-12", "tile-14", "tile-18", "tile-19", "tile-33"],
     "ref": [
       {
         "title": "Mind mapping research methods (Quality and Quantity, 2012)",
@@ -120,7 +120,7 @@
     "size": "large",
   "content": "Students teaching other students. This strategy incorporates the social aspect of learning, allowing students to learn from each other as opposed to solely from an instructor.",
   "content2": "In a way, peer teaching, I think, is the purest form of learning. Before writing systems were developed, passing on information was largely a social activity, as a result of oral traditions. I think peer teaching brings back that element of socialization which has been lost as a result of institutionalized education and heightened literacy.",
-  "links": ["tile-16", "tile-13", "tile-3"],
+    "links": ["tile-3", "tile-5", "tile-13", "tile-15", "tile-16", "tile-17", "tile-21"],
     "ref": []
   },
   {
@@ -149,7 +149,7 @@
     "size": "small",
   "content": "Students learn new content at home through videos, readings, or other materials, and then apply that knowledge in the classroom through activities, discussions, and problem-solving exercises. The flipped classroom model allows for more active learning and engagement during class time, as students come prepared with a basic understanding of the material.",
   "content2": "Actually wanted to go to Queen's Health Sciences for the flipped classroom model, but I got rejected... Plus, I think I like the way we do things more.",
-    "links": ["tile-10"],
+    "links": ["tile-10", "tile-13", "tile-17"],
     "ref": []
   },
   {
@@ -159,7 +159,7 @@
     "size": "small",
   "content": "The practice of recording information from a lecture, presentation, or other source. Note-taking can be done in various formats, such as handwritten notes, digital notes, or mind maps. Effective note-taking can enhance learning and retention of information.",
   "content2": "",
-    "links": ["tile-1"],
+    "links": ["tile-1", "tile-8", "tile-18", "tile-29"],
     "ref": []
   },
   {
@@ -169,7 +169,7 @@
     "size": "medium",
   "content": "Facilitating group discussions for deeper understanding. Discussion groups encourage active participation and critical thinking, allowing students to learn from each other's perspectives and insights.",
   "content2": "",
-  "links": ["tile-16", "tile-9", "tile-5", "tile-3"],
+  "links": ["tile-3", "tile-5", "tile-7", "tile-9", "tile-11", "tile-16", "tile-21"],
     "ref": [ 
       {
         "title": "The Effect of Discussion Groups on Student Learning (SAGE Journals)",
@@ -188,7 +188,7 @@
     "size": "medium",
   "content": "Using visual aids to enhance learning and understanding. Visualization can help learners grasp complex concepts and relationships by providing a visual representation of information.",
   "content2": "",
-  "links": ["tile-18", "tile-8"],
+    "links": ["tile-6", "tile-8", "tile-18", "tile-26"],
     "ref": []
   },
   {
@@ -198,7 +198,7 @@
     "size": "medium",
   "content": "Providing constructive feedback to learners to guide their learning process. Feedback can be formative (ongoing) or summative (final), and can be delivered in various formats, such as written comments, verbal discussions, or digital platforms.",
   "content2": "",
-    "links": ["tile-4"],
+    "links": ["tile-1", "tile-4", "tile-9", "tile-17"],
     "ref": []
   },
   {
@@ -208,7 +208,7 @@
     "size": "large",
   "content": "Collaborative learning is an educational strategy where students work together to achieve common learning goals. These goals can manifest as projects, tasks, or creation of products. While its definition varies by application, collaborative learning typically involves joint intellectual effort by members of a group. It has gained popularity in recent years for its efficacy in delivering understanding and retention of material.",
   "content2": "",
-  "links": ["tile-13", "tile-9", "tile-5", "tile-3"],
+    "links": ["tile-3", "tile-5", "tile-7", "tile-9", "tile-13", "tile-21", "tile-33"],
     "ref": [
         {
           "title": "Benefits of collaborative learning (ScienceDirect)",
@@ -227,7 +227,7 @@
     "size": "medium",
   "content": "Learners evaluating their own progress through reflective practices. Self-assessments encourage learners to internalize their strengths and weaknesses, promoting autonomy at the cost of structured assessments from instructors.",
   "content2": "In my experience, self-assessments require a lot of discipline and honesty. It's difficult to gauge your own abilities in the moment, especially when your cognitive biases are at play. However, with consistent reflection and self-awareness, self-assessments can allow for more personalized and meaningful learning experiences, boosting motivation and knowledge retention.",
-    "links": ["tile-4", "tile-3"],
+    "links": ["tile-3", "tile-4", "tile-9", "tile-11", "tile-15", "tile-24", "tile-27"],
     "ref": [ 
       {
         "title": "Self-Assessment (Cornell University)",
@@ -242,7 +242,7 @@
     "size": "small",
   "content": "Creating diagrams to represent relationships between concepts...",
   "content2": "",
-    "links": ["tile-8", "tile-19", "tile-20", "tile-21"],
+    "links": ["tile-8", "tile-12", "tile-19", "tile-20", "tile-21", "tile-36"],
     "ref": []
   },
   {
@@ -252,7 +252,7 @@
     "size": "small",
   "content": "Creating diagrams to represent concepts...",
   "content2": "",
-    "links": ["tile-18"],
+    "links": ["tile-18", "tile-8"],
     "ref": []
   },
   {
@@ -272,12 +272,182 @@
     "size": "medium",
   "content": "Learning through the analysis and discussion of real-world cases...",
   "content2": "",
-    "links": ["tile-18"],
+    "links": ["tile-9", "tile-13", "tile-16", "tile-18", "tile-37"],
     "ref": [ 
       {
         "title": "Case-based learning (CBL) in undergraduate health professions education: A realist review (MedEdPublish)",
         "url": "https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.70179"
       }
     ]
+  },
+  {
+    "id": "tile-22",
+    "title": "Mnemonics",
+    "type": "learning",
+    "size": "small",
+    "content": "Mnemonics are memory aids that help learners retain information by associating it with familiar concepts or images.",
+    "content2": "",
+    "links": ["tile-1", "tile-2", "tile-32"],
+    "ref": []
+  },
+  {
+    "id": "tile-23",
+    "title": "Elaborative Interrogation",
+    "type": "learning",
+    "size": "medium",
+    "content": "Elaborative interrogation is a learning strategy that involves asking 'why' and 'how' questions to deepen understanding and make connections between new information and existing knowledge.",
+    "content2": "",
+    "links": ["tile-1", "tile-4", "tile-35"],
+    "ref": []
+  },
+  {
+    "id": "tile-24",
+    "title": "Self-Explanation",
+    "type": "learning",
+    "size": "medium",
+    "content": "Self-explanation is a learning strategy that involves generating explanations for oneself about the material being learned. This technique can help learners identify gaps in their understanding and promote deeper comprehension of the material.",
+    "content2": "",
+    "links": ["tile-4", "tile-17", "tile-34"],
+    "ref": []
+  },
+  {
+    "id": "tile-25",
+    "title": "Interleaved Practice",
+    "type": "learning",
+    "size": "small",
+    "content": "Interleaved practice is a learning technique that involves mixing different topics or skills during study sessions. This approach can improve long-term retention and problem-solving abilities by requiring learners to constantly switch between different types of problems or concepts.",
+    "content2": "",
+    "links": ["tile-2", "tile-32"],
+    "ref": []
+  },
+  {
+    "id": "tile-26",
+    "title": "Dual Coding",
+    "type": "learning",
+    "size": "medium",
+    "content": "Dual coding is a learning strategy that involves combining verbal and visual information to enhance understanding and retention. By engaging both the verbal and visual processing centers of the brain, dual coding can help learners create stronger associations between concepts and improve memory recall.",
+    "content2": "",
+    "links": ["tile-14", "tile-8", "tile-36"],
+    "ref": []
+  },
+  {
+    "id": "tile-27",
+    "title": "Feynman Technique",
+    "type": "learning",
+    "size": "small",
+    "content": "The Feynman Technique is a method of learning that involves explaining a concept in simple terms as if teaching it to someone else. This technique helps identify gaps in understanding and promotes deeper comprehension of the material.",
+    "content2": "",
+    "links": ["tile-1", "tile-17", "tile-35"],
+    "ref": []
+  },
+  {
+    "id": "tile-28",
+    "title": "Pomodoro Technique",
+    "type": "learning",
+    "size": "small",
+    "content": "The Pomodoro Technique is a time management method that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks. This technique can help improve focus and productivity by creating a sense of urgency and providing regular opportunities for rest.",
+    "content2": "",
+    "links": ["tile-2", "tile-32"],
+    "ref": []
+  },
+  {
+    "id": "tile-29",
+    "title": "SQ3R Method",
+    "type": "learning",
+    "size": "small",
+    "content": "SQ3R stands for Survey, Question, Read, Recite, Review. It's a reading comprehension method that helps learners understand and retain information from texts.",
+    "content2": "",
+    "links": ["tile-12", "tile-35"],
+    "ref": []
+  },
+  {
+    "id": "tile-30",
+    "title": "Practice Testing",
+    "type": "learning",
+    "size": "medium",
+    "content": "",
+    "content2": "",
+    "links": ["tile-1", "tile-35"],
+    "ref": []
+  },
+  {
+    "id": "tile-31",
+    "title": "Chunking",
+    "type": "learning",
+    "size": "medium",
+    "content": "",
+    "content2": "",
+    "links": ["tile-8", "tile-18", "tile-36"],
+    "ref": []
+  },
+  {
+    "id": "tile-32",
+    "title": "Lecture Method",
+    "type": "teaching",
+    "size": "large",
+    "content": "",
+    "content2": "",
+    "links": ["tile-1", "tile-2"],
+    "ref": []
+  },
+  {
+    "id": "tile-33",
+    "title": "Project-Based Learning",
+    "type": "teaching",
+    "size": "medium",
+    "content": "",
+    "content2": "",
+    "links": ["tile-8", "tile-10"],
+    "ref": []
+  },
+  {
+    "id": "tile-34",
+    "title": "Inquiry-Based Learning",
+    "type": "teaching",
+    "size": "large",
+    "content": "",
+    "content2": "",
+    "links": ["tile-3", "tile-13"],
+    "ref": []
+  },
+  {
+    "id": "tile-35",
+    "title": "Direct Instruction",
+    "type": "teaching",
+    "size": "large",
+    "content": "",
+    "content2": "",
+    "links": ["tile-1", "tile-12"],
+    "ref": []
+  },
+  {
+    "id": "tile-36",
+    "title": "Experiential Learning",
+    "type": "teaching",
+    "size": "medium",
+    "content": "",
+    "content2": "",
+    "links": ["tile-8", "tile-18"],
+    "ref": []
+  },
+  {
+    "id": "tile-37",
+    "title": "Case-Based Teaching",
+    "type": "teaching",
+    "size": "small",
+    "content": "",
+    "content2": "",
+    "links": ["tile-21", "tile-3"],
+    "ref": []
+  },
+  {
+    "id": "tile-38",
+    "title": "Problem-Based Learning",
+    "type": "teaching",
+    "size": "medium",
+    "content": "",
+    "content2": "",
+    "links": ["tile-8", "tile-10"],
+    "ref": []
   }
 ]
