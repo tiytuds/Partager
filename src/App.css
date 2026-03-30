@@ -3,6 +3,21 @@
   color: #D91474;
 }
 
+.App h1 {
+  font-size: clamp(1em, 4vw, 3em);
+  margin-bottom: 0.5em;
+}
+
+.App p {
+  font-size: clamp(0.5em, 2vw, 1.5em);
+  margin-bottom: 1em;
+}
+
+.App strong {
+  font-size: clamp(0.75em, 2vw, 1.5em);
+  margin-bottom: 1em;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,4 +51,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.title {
+  font-size: clamp(0.1em, 1vw, 3em);
+  margin-bottom: 0.5em;
 }
